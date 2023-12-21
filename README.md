@@ -8,4 +8,4 @@ WIP Features:
 * Cue and ball upgrades
 * Experience system
 * Tournament mode
-* Cosmetics. 
+* Cosmetics
